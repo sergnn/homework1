@@ -1,2 +1,2 @@
 # homework1
-Work on Git Bash
+Working on Git Bash
